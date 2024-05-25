@@ -3,11 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['94743308757', 'BOT', true], ['94763108069', 'Shavishan', true]]
-
+global.owner = [['94713343627', 'BOT', true], ['94763108069', 'Shavishan', tru
 //global.pairingNumber = ""
 
-global.mods = ['94763108069', '94743308757']
+global.mods = ['94713343627', '94743308757']
 global.prems = ['94763108069', '94743308757']
 global.allowed = ['94763108069', '94743308757']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -52,7 +51,7 @@ global.APIKeys = {
 global.botname = 'HORIZON-MD'
 global.premium = 'true'
 global.packname = 'H.MD'
-global.author = 'shavishan'
+global.author = 'locha'
 global.menuvid = 'https://i.imgur.com/g0qhPWv.mp4'
 global.igfg = '▢ Follow on Instagram\nNo I\'m NOT'
 global.dygp = 'https://chat.whatsapp.com/KIpGJ7Z01T85Uq7NrEJu9q'
